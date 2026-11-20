@@ -212,6 +212,21 @@ JOIN products p ON si.product_id = p.product_id;
 
 ## 9. Скриншоты выполнения работы
 
+<img width="1457" height="332" alt="1" src="https://github.com/user-attachments/assets/e57a7e8b-c856-4d58-aacf-a380080f7e6b" />
+<img width="223" height="152" alt="2" src="https://github.com/user-attachments/assets/ee23305f-267d-4884-90ba-1dfef8f82ca9" />
+<img width="578" height="175" alt="3" src="https://github.com/user-attachments/assets/028f7220-67e3-4781-9bf3-2818040b0096" />
+<img width="1307" height="200" alt="4" src="https://github.com/user-attachments/assets/9620fe35-fa27-4ea9-9bab-3907927e1443" />
+<img width="712" height="177" alt="5" src="https://github.com/user-attachments/assets/638db12e-9c61-43fc-9dc1-baada6581c14" />
+<img width="477" height="230" alt="6" src="https://github.com/user-attachments/assets/c49f21cb-bc28-4223-b299-3c671ec51701" />
+<img width="356" height="252" alt="7" src="https://github.com/user-attachments/assets/d5592c3a-758e-4386-a6f1-cd0a95e0f1be" />
+<img width="345" height="328" alt="8" src="https://github.com/user-attachments/assets/3c96afda-896a-4bcf-8806-61993ec8897f" />
+<img width="332" height="387" alt="9" src="https://github.com/user-attachments/assets/d65dbf1a-0934-403d-8681-b9e2f4cbf7f8" />
+<img width="407" height="362" alt="10" src="https://github.com/user-attachments/assets/9afb36eb-dd0c-427e-9303-aa61d976ec22" />
+<img width="227" height="147" alt="11" src="https://github.com/user-attachments/assets/3d92a5a2-b8ed-44ed-8bc2-5104662064f1" />
+<img width="1337" height="333" alt="12" src="https://github.com/user-attachments/assets/63ebad7f-eb8f-4a6f-adcc-a89d437b735d" />
+<img width="367" height="338" alt="13" src="https://github.com/user-attachments/assets/64c8eb3f-767d-441d-865a-8dc8bc455875" />
+<img width="377" height="313" alt="14" src="https://github.com/user-attachments/assets/6fe558de-049b-4fcc-9737-57f9c37d4330" />
+
 *Рисунок 1 — Выполнение шага 1:*
 ![Скриншот 1](./2IMG/1.png)
 
